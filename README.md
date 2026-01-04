@@ -1,8 +1,23 @@
-Ce dossier contient les ressources à destination des personnes qui vont réaliser le module/projet (ie. les apprenants).
+🚀 Klivio - Plateforme de Formations
+Projet d'intégration web complet (Desktop & Mobile) pour une plateforme de développement personnel.
 
-Ressources pour les apprenants :
+🔗 Lien du site
+https://walidsooo.github.io/Integration-WEB-HTML-CSS/
 
--> Maquette Desktop
--> Maquette mobile
--> Assets
--> Lien Figma
+🛠️ Technologies
+HTML5
+
+CSS3 (Flexbox & Grid)
+
+Responsive Design (Adapté aux mobiles)
+
+📂 Structure
+/assets : Images et icônes.
+
+/fonts : Polices personnalisées.
+
+/styles : Fichiers CSS.
+
+index.html : Page principale.
+
+Auteur : Walid
