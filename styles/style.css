@@ -9,7 +9,6 @@
 
 @font-face {
   font-family: 'Montserrat';
-  /* CHANGEMENT : ../ pour remonter d'un dossier */
   src: url(../fonts/Montserrat/static/Montserrat-Medium.ttf);
 }
 
@@ -138,7 +137,6 @@ nav img {
   width: 100%;
   height: 28rem;
   text-align: center;
-  /* CHANGEMENT : ../ pour remonter d'un dossier */
   background: linear-gradient(to left, rgba(68, 221, 138, 0.6), rgba(21, 183, 226, 0.6)), url(../assets/img/bg-header.png) center/cover;
   display: flex;
   align-items: center;
@@ -725,7 +723,6 @@ footer {
   .banner-header {
     height: 25rem;
     padding: 2rem 1.5rem;
-    /* CHANGEMENT : ../ pour remonter d'un dossier */
     background: linear-gradient(to left, rgba(68, 221, 138, 0.6), rgba(21, 183, 226, 0.6)), url(../assets/img/bg-header-mobile.jpg) center/cover;
     justify-content: center;
   }
